@@ -1,4 +1,4 @@
-namespace GodotUtils;
+namespace CSharpUtils;
 
 using System;
 using System.Timers;
