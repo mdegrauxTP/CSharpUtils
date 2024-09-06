@@ -4,7 +4,6 @@ using System;
 
 namespace CSharpUtils;
 
-
 /// <summary>
 /// This class was created to attempt to simplify the process of creating C# events for gamedev.
 /// 

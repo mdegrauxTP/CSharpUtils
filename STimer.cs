@@ -5,7 +5,6 @@ using Timer = System.Timers.Timer;
 
 namespace CSharpUtils;
 
-
 /// <summary>
 /// If for whatever reason a Timer is needed on a non-Godot thread, this is what you should use.
 /// </summary>

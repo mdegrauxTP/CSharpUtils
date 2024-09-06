@@ -5,7 +5,6 @@ using System;
 
 namespace CSharpUtils;
 
-
 public static class ExtensionsString
 {
     /// <summary>

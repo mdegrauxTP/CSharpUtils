@@ -2,7 +2,6 @@ using System;
 
 namespace CSharpUtils;
 
-
 public class State
 {
     public Action Enter { get; set; } = () => { };
