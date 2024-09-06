@@ -1,8 +1,9 @@
-namespace CSharpUtils;
-
-using System;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
+using System;
+
+namespace CSharpUtils;
+
 
 public static class CollectionExtensions
 {

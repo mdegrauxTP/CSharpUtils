@@ -1,6 +1,7 @@
+using System;
+
 namespace CSharpUtils;
 
-using System;
 
 public class State
 {

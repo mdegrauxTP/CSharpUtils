@@ -1,4 +1,7 @@
-﻿namespace CSharpUtils;
+using System.Collections.Generic;
+
+
+namespace CSharpUtils;
 
 public static class ExtensionsDictionary
 {

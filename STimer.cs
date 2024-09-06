@@ -1,9 +1,10 @@
+using Object = System.Object;
+using System.Timers;
+using System;
+using Timer = System.Timers.Timer;
+
 namespace CSharpUtils;
 
-using System;
-using System.Timers;
-using Object = System.Object;
-using Timer = System.Timers.Timer;
 
 /// <summary>
 /// If for whatever reason a Timer is needed on a non-Godot thread, this is what you should use.

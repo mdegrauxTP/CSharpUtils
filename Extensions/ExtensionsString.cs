@@ -1,9 +1,10 @@
-namespace CSharpUtils;
-
-using System;
 using System.Globalization;
 using System.Linq;
 using System.Text.RegularExpressions;
+using System;
+
+namespace CSharpUtils;
+
 
 public static class ExtensionsString
 {

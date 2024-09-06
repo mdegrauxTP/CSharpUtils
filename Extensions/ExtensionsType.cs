@@ -1,4 +1,8 @@
-﻿namespace CSharpUtils;
+using System.Collections.Generic;
+using System;
+
+
+namespace CSharpUtils;
 
 public static class ExtensionsType
 {

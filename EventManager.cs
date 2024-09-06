@@ -1,8 +1,9 @@
-namespace CSharpUtils;
-
-using System;
 using System.Collections.Generic;
 using System.Linq;
+using System;
+
+namespace CSharpUtils;
+
 
 /// <summary>
 /// This class was created to attempt to simplify the process of creating C# events for gamedev.
